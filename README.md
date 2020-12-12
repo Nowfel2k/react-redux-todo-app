@@ -1,3 +1,3 @@
-# react-x51hnh
+# Todo App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-x51hnh)
+[View on StackBlitz ⚡️](https://stackblitz.com/edit/react-x51hnh)
