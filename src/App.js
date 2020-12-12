@@ -1,11 +1,17 @@
 import React from "react";
 import "./style.css";
+import TodoInput from "./TodoInput";
+import TodoList from "./TodoList";
 
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <hr />
+      <h1>Todo App</h1>
+
+      <hr />
+      <TodoInput />
+      <TodoList />
     </div>
   );
 }
